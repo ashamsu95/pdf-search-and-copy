@@ -49,7 +49,7 @@ To convert the script into an executable (.exe) file, use PyInstaller:
 
 ## Download the Executable
 
-You can also download the executable version [here](/dist/S) to run the program without needing Python.
+You can also download the executable version [here](/dist/) to run the program without needing Python.
 
 ## Requirements
 
