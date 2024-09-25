@@ -1,3 +1,7 @@
+# About the Script
+
+This script was developed for Intern Nepal - Recruit Nepal to assist them in finding CVs on their computers. For more information, visit [Intern Nepal](https://internepal.com.np/).
+
 # PDF Keyword Search and Copy
 
 This is a Python script that allows users to search for PDF files in specified directories, find a keyword within those files, and copy matching PDFs to a destination directory.
