@@ -54,8 +54,3 @@ You can also download the executable version [here](/dist/) to run the program w
 ## Requirements
 
 - Python 3.x
-
-## Summary:
-
-- This part includes instructions on downloading the executable and lists the requirements.
-- If you need any further modifications or additional sections, just let me know!
